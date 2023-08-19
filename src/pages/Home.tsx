@@ -7,7 +7,6 @@ import Footer from '../components/Footer';
 const Home: Component = () => {
     return (
         <div >
-            {/* <Navbar/> */}
             <HomeBanner/>
             <ContactUs/>
             <Footer/>
